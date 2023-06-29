@@ -1,2 +1,1 @@
-My first readme
-^C
+another readme for repo-session
